@@ -1,0 +1,138 @@
+Total de alunos: 34
+Lista de alunos e lanches:
+{
+  nome: 'ALEX FANIS LIMA',
+  lanche_favorito: 'Pao de batata'
+}
+{
+  nome: 'AMANDA SANTOS SCHRAMM',
+  lanche_favorito: 'Torta salgada'
+}
+{
+  nome: 'ARTUR TSCHOEKE TABORDA',
+  lanche_favorito: 'Pao de queijo recheado'
+}
+{
+  nome: 'BRUNA VITORIA MIRANDA BARBOSA',
+  lanche_favorito: 'Pao de batata doce'
+}
+{
+  nome: 'CAUE KLAK ANDRETTA',
+  lanche_favorito: 'Pipoca'
+}
+{
+  nome: 'DANYLO LACOY CONTI DA SILVA',
+  lanche_favorito: 'Bolo de cenoura'
+}
+{
+  nome: 'ELIZEU ALCIDES PACHECO SOBRINHO',
+  lanche_favorito: 'Hamburguer'
+}
+{
+  nome: 'ENZO RIBEIRO',
+  lanche_favorito: 'Lasanha'
+}
+{
+  nome: 'ESTEVAO BUDNI DE SOUZA',
+  lanche_favorito: 'Pao de queijo'
+}
+{
+  nome: 'ESTHER CHUINCA',
+  lanche_favorito: 'Empada'
+}
+{
+  nome: 'FELIPE MATHEUS LINCK LECHETA',
+  lanche_favorito: 'Donut'
+}
+{
+  nome: 'GABRIEL OLIVEIRA MULLER GONCALVES DE SOUZA',
+  lanche_favorito: 'Panqueca'
+}
+{
+  nome: 'GIOVANNA MENDES RICHTER',
+  lanche_favorito: 'Waffle'
+}
+{
+  nome: 'GUSTAVO ALBERTO BIGOVAI',
+  lanche_favorito: 'Pizza'
+}
+{
+  nome: 'GYORGE HENRIQUE KORC MONASSA MOREIRA',
+  lanche_favorito: 'Crepe'
+}
+{
+  nome: 'JOAO VICTOR ROSA DOS SANTOS',
+  lanche_favorito: 'Wrap de frango'
+}
+{
+  nome: 'KAYKE SEIXAS PEREIRA',
+  lanche_favorito: 'Churros'
+}
+{
+  nome: 'LARISSA APARECIDA DA CRUZ',
+  lanche_favorito: 'Pastel'
+}
+{
+  nome: 'LORENZO DELLA PASQUA TONIAL',
+  lanche_favorito: 'Tapioca'
+}
+{
+  nome: 'LUKAS EDUARDO BACILI RODRIGUES',
+  lanche_favorito: 'Sanduiche natural'
+}
+{
+  nome: 'LYVIA MARIA KUCHTA DE SOUZA',
+  lanche_favorito: 'Pao com queijo'
+}
+{
+  nome: 'MARTHA RICHTER DE DEUS',
+  lanche_favorito: 'Batata frita'
+}
+{
+  nome: 'MATHEUS REIS ALVES DE SOUZA',
+  lanche_favorito: 'Acaraje'
+}
+{
+  nome: 'OTAVIO GALVAO MACHADO',
+  lanche_favorito: 'Kibe'
+}
+{
+  nome: 'PEDRO ALVES MACHADO',
+  lanche_favorito: 'Coxinha'
+}
+{
+  nome: 'PEDRO HENRICK BORGES TRIZOTE',
+  lanche_favorito: 'Pao de milho'
+}
+{
+  nome: 'PEDRO MACHADO DE MELO',
+  lanche_favorito: 'Brigadeiro'
+}
+{
+  nome: 'RAMON COLTRO GOULART',
+  lanche_favorito: 'Hot dog'
+}
+{
+  nome: 'RHUAN MARTINS ALVES',
+  lanche_favorito: 'Croissant'
+}
+{
+  nome: 'SAMUEL RIBEIRO AGUIAR',
+  lanche_favorito: 'Bauru'
+}
+{
+  nome: 'THIAGO CARTA ORCIUCH',
+  lanche_favorito: 'Esfiha'
+}
+{
+  nome: 'THIAGO HENRIQUE SANTANA DE SOUSA',
+  lanche_favorito: 'Pao de alho'
+}
+{
+  nome: 'VITOR GABRIEL MACHADO MARTINS',
+  lanche_favorito: 'Enroladinho de salsicha'
+}
+{
+  nome: 'VITORIA ELOIZE RIBEIRO MUNHOZ',
+  lanche_favorito: 'Misto quente'
+}

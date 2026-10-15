@@ -1,0 +1,27 @@
+services:
+  mongodb:
+    image: mongo:8
+    container_name: banco-de-lanches
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_DATABASE: banco_da_turma
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+      - ./init/init.js:/docker-entrypoint-initdb.d/init.js:ro
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "mongosh",
+          "--quiet",
+          "--eval",
+          "db.adminCommand('ping').ok"
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  mongodb_data:
