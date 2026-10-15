@@ -1,5 +1,3 @@
-Total de alunos: 34
-Lista de alunos e lanches:
 {
   nome: 'ALEX FANIS LIMA',
   lanche_favorito: 'Pao de batata'
